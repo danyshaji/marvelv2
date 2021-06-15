@@ -38,7 +38,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '🎖️ Our Group 🎖️', url="https://t.me/D_Cinemas_GRP"
+                                    '🎖𝗢𝗨𝗥 𝗖𝗛𝗔𝗡𝗡𝗘𝗟𝗦🎖', url="https://t.me/joinchat/ronmwIwjO_oyOGY1"
                                 )
                         ]
                     ]
@@ -57,7 +57,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '🎖️ Our Group 🎖️', url="https://t.me/D_Cinemas_GRP"
+                                    '🎖𝗢𝗨𝗥 𝗖𝗛𝗔𝗡𝗡𝗘𝗟𝗦🎖', url="https://t.me/joinchat/ronmwIwjO_oyOGY1"
                                 )
                         ]
                     ]
@@ -76,7 +76,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '🎖️ Our Group 🎖️', url="https://t.me/D_Cinemas_GRP"
+                                    '🎖𝗢𝗨𝗥 𝗖𝗛𝗔𝗡𝗡𝗘𝗟𝗦🎖', url="https://t.me/joinchat/ronmwIwjO_oyOGY1"
                                 )
                         ]
                     ]
